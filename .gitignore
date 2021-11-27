@@ -15,5 +15,6 @@ __pycache__
 *~
 .idea/
 .vscode/
+.vs/
 node_modules/
 .backportrc.json
